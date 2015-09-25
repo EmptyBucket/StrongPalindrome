@@ -1,0 +1,12 @@
+Palindrome
+	building palindromes of the text specified in the console or 
+	in a text file and output together palindromes in the console or
+	to a text file.
+
+Used class batch mode:
+	Palindrome(object)
+And use the following methods:
+	create_list_pal(self)
+	to create a sheet with palindromes
+	
+	
